@@ -17,7 +17,7 @@ The Patients Wait List Summary Dashboard is a visual representation of healthcar
 
 ## Interactive Dashboard
 
-- **[View Interactive Dashboard on Power BI Service](link-to-interactive-dashboard-on-power-bi-service)**
+- **[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/reportEmbed?reportId=d896a1d2-2dbe-4efa-8e4f-4c5c050ad957&autoAuth=true&ctid=0697bccb-be19-4555-9451-5f4bdff663a0)**
 
 Visit the above link to experience the live and interactive version of the dashboard.
 
